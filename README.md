@@ -8,7 +8,6 @@ API Documentation:
 
 **The final project will be split into 2 sections: 
 https://github.com/NCOor8/ProiectTestaremanuala/edit/main/README.md#11-test-planning
-(https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#1-testing-section) and [SQL section](https://github.com/julai215/itf_final_project_example_and_portofolio/blob/main/Final%20Project/README.md#2-sql-section).**
 
 Tools used:
 
