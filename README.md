@@ -1,0 +1,2 @@
+# ProiectTestaremanuala
+testare manuala proiect
