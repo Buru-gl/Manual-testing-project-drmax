@@ -64,7 +64,7 @@ are:
 -> enter here test cases or at least the titles
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: [test_cases.pdf](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
 
 ## 1.5 Test Implementation
 
