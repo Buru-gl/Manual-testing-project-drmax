@@ -18,6 +18,8 @@ Instrumente utilizate::
 # 1 Secțiunea de testare
 ![image](https://github.com/Buru-gl/ProiectTestaremanuala/assets/125501132/7ddfeb0f-157f-483b-af3b-7a37cc3b514a)
 
+Zephyr Test Executions + Results (Jira).pdf
+
 # 1.1 Planificarea testelor
 
 Planul de testare este conceput pentru a descrie toate detaliile testării pentru modulul X din aplicația OrangeHRM.
