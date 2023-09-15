@@ -4,7 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://www.drmax.ro/
 
-API Documentation: [drag and drop.png] (https://github.com/Buru-gl/ProiectTestaremanuala/blob/main/drag%20and%20drop%20readme.png)
+API Documentation: [Zephyr Test Executions + Results (Jira).pdf] (https://github.com/Buru-gl/ProiectTestaremanuala/blob/main/Zephyr%20Test%20Executions%20%2B%20Results%20(Jira).pdf)
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/NCOor8/ProiectTestaremanuala/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
 
