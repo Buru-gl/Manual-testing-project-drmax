@@ -16,6 +16,7 @@ Instrumente utilizate::
 -> introduceți aici specificațiile funcționale create în JIRA
 
 # 1 Secțiunea de testare
+![image](https://github.com/Buru-gl/ProiectTestaremanuala/assets/125501132/7ddfeb0f-157f-483b-af3b-7a37cc3b514a)
 
 # 1.1 Planificarea testelor
 
