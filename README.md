@@ -64,7 +64,7 @@ are:
 -> enter here test cases or at least the titles
 
 
-The test cases with steps can be viewed here: [test_cases.pdf](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+The test cases with steps can be viewed here: [test_cases.pdf]([https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf](https://github.com/Buru-gl/ProiectTestaremanuala/blob/main/Zephyr%20Test%20Executions%20%2B%20Results%20(Jira).pdf))
 
 ## 1.5 Test Implementation
 
