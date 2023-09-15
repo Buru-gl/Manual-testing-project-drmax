@@ -4,7 +4,8 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://www.drmax.ro/
 
-API Documentation: 
+API Documentation: ![Readme md_GitHub](https://github.com/Buru-gl/ProiectTestaremanuala/assets/125501132/d9708d52-0af2-4142-8ee8-6ab694e9d78a)
+
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/NCOor8/ProiectTestaremanuala/edit/main/README.md#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
 
