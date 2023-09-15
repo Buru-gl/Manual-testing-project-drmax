@@ -57,6 +57,7 @@ Cazurile de testare funcționale au fost create în Zephyr Squad. Pe baza analiz
 
 **Cazuri de testare:**
 -> introduceți aici cazurile de testare sau cel puțin titlurile
+https://github.com/Buru-gl/ProiectTestaremanuala/blob/main/Zephyr%20Test%20Executions%20%2B%20Results%20(Jira).pdf
 
 Cazurile de testare cu etapele pot fi vizualizate aici: test_cases.pdf
 
