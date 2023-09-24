@@ -1,5 +1,7 @@
 # Final Project for Manual Testing - IT Factory
 
+Hello! My name is M. Buruiană and I will present a project for manual testing, part of the manual testing course at IT Factory Academy.  
+
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: https://www.drmax.ro/
@@ -8,7 +10,7 @@ API Documentation: [Zephyr Test Executions + Results (Jira).pdf]
 
 **The final project will be split into 2 sections: [[Testing section](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
 
-Tools used: Jira([ATLASSIAN](https://www.atlassian.com/software/jira)), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
+Tools used: Jira ([Atlassian](https://www.atlassian.com/software/jira)), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
 
 # Functional specifications
 
