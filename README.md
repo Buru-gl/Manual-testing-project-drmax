@@ -10,20 +10,20 @@ API Documentation:
 
 **The final project will be split into 2 sections: [[Testing section](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
 
-Tools used: Jira ([Atlassian](https://www.atlassian.com/software/jira)), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
+Tools used: Jira [Atlassian](https://www.atlassian.com/software/jira), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+-> [functional specification](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Functional_specifications_drmax.pdf)
 
 
 # 1 Testing section
 
 ## 1.1 Test Planning
 
-The Test Plan is designed to describe all details of testing for the X module from the OrangeHRM application. 
+Test Plan The test plan is designed to describe all the details of testing the modules: "Login with a created account", "Register a new account", "Revalidate email address", "Search filters", "Select products and checkout", "Check additional information provided by the site" in the online shop of the drmax website. 
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
 #### 1.1.1 Roles assigned to the project and persons allocated
   * Product owner: IT Factory
@@ -31,9 +31,15 @@ The plan identifies the items to be tested, the features to be tested, the types
   * QA Tester: M. Buruiana
 
 #### 1.1.2 Entry criteria defined
-
+ - To ensure testing has been provided and made available to testers: Approved test plan, Access to relevant documentation for the software product, Test environments prepared (installation, software configuration, database, etc.), Access to systems and functionalities (accounts, permissions). [entry criteria](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conditii_de_testare_test_case.png);
+ -  functional business specifications are defined;
+ -  esting environment is up and running;
+ -  smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing).
 
 #### 1.1.3 Exit criteria defined
+ - all planned test cases were executed;
+ - 70% of the tests passed;
+ - no critical issues/bugs have open status (all unresolved bugs have low priority and severity from the point of view of software functionality).
 
 #### 1.1.4 Test scope
 
@@ -42,9 +48,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
-* Product risks: 
-
+* Project risks - Product risks:
+* Project and product risks, materialised in the risk matrix, were identified at the planning stage. [matricea de risc](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Jira_matricea_de_risc-drmax.jpg).
+  
 #### 1.1.6 Evaluating entry criteria
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
@@ -55,8 +61,8 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the above requirements for the "Login" module. The following test conditions were found:
+ * [conditii de testare](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conditii_de_testare_test_case.png)
 
 ## 1.4 Test Design
 
@@ -64,22 +70,21 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 are:
 
 **Test cases:**
--> enter here test cases or at least the titles
+The test cases with steps can be viewed here: [JIRA test case](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Test_case_Jira.pdf)
 
-
-The test cases with steps can be viewed here: [test_cases.pdf](https://github.com/Buru-gl/ProiectTestaremanuala/blob/main/Zephyr%20Test%20Executions%20%2B%20Results%20(Jira).pdf)
 
 ## 1.5 Test Implementation
 
-The following elements are needed to be ready before the test execution phase begins:
+- Checked if, We have everything we need to start executing tests?
+- Checked the test environment (website www.drmax.ro, is it functional, online), prioritised the tests (based on business importance and risks)
 
-* enter here what needs to be ready for the test execution to begin
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]()
-    *  enter here bug titles
+* The tests will be run on some of the most popular browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari.
+* If time allows, we will extend the tests to other browsers such as Tor, Opera, Brave;
+* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Summary_test_case_Jira.png)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Bug_Jira.pdf)
 
 
 ## 1.7 Test Completion
