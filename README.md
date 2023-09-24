@@ -91,7 +91,7 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 
 * Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Forward%20Traceability.png)
-* Test execution chart was generated: test execution chart (https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
+* Test execution chart was generated: [test execution chart](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
 
 
 # 2 SQL section
