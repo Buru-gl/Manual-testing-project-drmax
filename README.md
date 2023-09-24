@@ -8,7 +8,7 @@ API Documentation: [Zephyr Test Executions + Results (Jira).pdf]
 
 **The final project will be split into 2 sections: [[Testing section](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
 
-Tools used: Jira([ATLASSIAN](https://www.atlassian.com/software/jira)), [Zephyr] for Jira (https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
+Tools used: Jira([ATLASSIAN](https://www.atlassian.com/software/jira)), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
 
 # Functional specifications
 
