@@ -45,7 +45,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 * __Tests in scope:__ All features of the "Login" module that have been defined in the requirements and technical specifications, for the www.drmax.ro page, must be tested.
                       Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
-* __Tests not in scope:__ Out-of-scope testing: compatibility testing with multiple operating systems (other than windows), previously implemented existing functionality, performance, security. 
+* __Tests not in scope:__ Out-of-scope tests: compatibility tests with multiple operating systems (other than Windows), existing previously implemented functionality such as stress, performance, security tests. Only 
+                      web pages will be tested, no mobile apps are developed. Automated testing is out of scope. 
 
 #### 1.1.5 Risks detected
 
