@@ -68,8 +68,9 @@ The testing process will be executed based on the above requirements for the "Lo
 
 ## 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
-are:
+Functional test cases were created in Zephyr Squad. Based on the specification analysis, the test design techniques used to generate the test cases are: Functional Testing and Non-functional Testing, as the site goes beyond the "Beta Testing" stage and is used in real world conditions, we use the concept of "happy flow" using Positive Testing and Negative Testing respectively. 
+#Test case:
+![Test_case-titlu](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/f4768b93-7794-40d4-9361-9553bb3b4905)
 
 **Test cases:**
 The test cases with steps can be viewed here: [JIRA test case](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Test_case_Jira.pdf)
