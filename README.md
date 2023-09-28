@@ -77,8 +77,8 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 
 ## 1.5 Test Implementation
 
-- Checked if We have everything we need to start executing tests?
-- Checked the test environment (website www.drmax.ro, is it functional, online), prioritised the tests (based on business importance and risks)
+- Checked if we have everything we need to start executing tests?
+- Test environment is up and running: (https://www.drmax.ro).
 
 ## 1.6 Test Execution
 
