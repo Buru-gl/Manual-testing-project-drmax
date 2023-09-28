@@ -86,6 +86,8 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 * If time allows, we will extend the tests to other browsers such as Tor, Opera, Brave;
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Summary_test_case_Jira.png)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Bug_Jira.pdf)
+* The test execution graph was generated in JIRA, the final report shows: [test completion report](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
+  ![Chart_JIRA_raport](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/f8caf6be-1d32-4cac-8454-43592fb0b8e0)
 
 ## 1.7 Test Completion
 
