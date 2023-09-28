@@ -98,4 +98,5 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 ![Concluzii_testare_JIRA - Copy2](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/f791aab9-0308-42e7-a700-864715b7eed9)
 
 
-# 2 SQL section
+# 2 SQL section 
+  *N/A*
