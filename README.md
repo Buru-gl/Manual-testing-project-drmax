@@ -21,7 +21,7 @@ Tools used: Jira [Atlassian](https://www.atlassian.com/software/jira), for Jira 
 
 ## 1.1 Test Planning
 
-Test Plan The test plan is designed to describe all the details of testing the modules: "Login with a created account", "Register a new account", "Revalidate email address", "Search filters", "Select products and checkout", "Check additional information provided by the site" in the online shop of the drmax website. 
+The Test Plan is designed to describe all the details of testing the modules: "Login with a created account", "Register a new account", "Revalidate email address", "Search filters", "Select products and checkout", "Check additional information provided by the site" in the online shop of the drmax website. 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
@@ -52,7 +52,7 @@ Project and product risks, materialised in the risk matrix, were identified at t
   
 #### 1.1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
