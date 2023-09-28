@@ -6,9 +6,9 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 Application under test: https://www.drmax.ro/
 
-API Documentation:
+API Documentation: N/A
 
-**The final project will be split into 2 sections: [[Testing section](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section).**
+**The final project will be split into 2 sections: [[Testing section](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [SQL section](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section) N/A**
 
 Tools used: Jira [Atlassian](https://www.atlassian.com/software/jira), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
 
@@ -43,8 +43,9 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
+* __Tests in scope:__ All features of the "Login" module that have been defined in the requirements and technical specifications, for the www.drmax.ro page, must be tested.
+                      Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
+* __Tests not in scope:__ Out-of-scope testing: compatibility testing with multiple operating systems (other than windows), previously implemented existing functionality, performance, security. 
 
 #### 1.1.5 Risks detected
 
