@@ -64,8 +64,8 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the "Login" module. The following test conditions were found:
- * [conditii de testare](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conditii_de_testare_test_case.png)
+The testing process will be executed based on the above requirements for the "Login" module. The following test conditions were found: [conditii de testare](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conditii_de_testare_test_case.png)
+
 
 ## 1.4 Test Design
 
