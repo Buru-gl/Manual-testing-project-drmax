@@ -48,8 +48,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks - Product risks:
-* Project and product risks, materialised in the risk matrix, were identified at the planning stage. [matricea de risc](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Jira_matricea_de_risc-drmax.jpg).
+Project and product risks, materialised in the risk matrix, were identified at the planning stage. [matricea de risc](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Jira_matricea_de_risc-drmax.jpg).
   
 #### 1.1.6 Evaluating entry criteria
 
