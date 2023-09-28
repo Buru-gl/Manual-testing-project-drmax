@@ -59,7 +59,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
-![Test execution chart proiect TM-1](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/b74521d2-931e-4088-a729-6eb6ea04486a)
+![Test Executions By Test Cycle](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/383580cc-58de-4862-9608-e0e05b035ad3)
 
 ## 1.3 Test Analysis
 
@@ -86,8 +86,7 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Summary_test_case_Jira.png)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Bug_Jira.pdf)
 * The test execution graph was generated in JIRA, the final report shows: [test completion report](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
-  ![Chart_JIRA_raport](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/f8caf6be-1d32-4cac-8454-43592fb0b8e0)
-  ![Test Executions By Test Cycle](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/383580cc-58de-4862-9608-e0e05b035ad3)
+  ![Test execution chart proiect TM-1](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/b74521d2-931e-4088-a729-6eb6ea04486a)
 
 ## 1.7 Test Completion
 
