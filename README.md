@@ -66,7 +66,6 @@ It will be done by generating periodic reports that reflect the current status o
 
 The testing process will be executed based on the above requirements for the "Login" module. The following test conditions were found: [conditii de testare](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conditii_de_testare_test_case.png)
 
-
 ## 1.4 Test Design
 
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases 
@@ -75,12 +74,10 @@ are:
 **Test cases:**
 The test cases with steps can be viewed here: [JIRA test case](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Test_case_Jira.pdf)
 
-
 ## 1.5 Test Implementation
 
 - Checked if, We have everything we need to start executing tests?
 - Checked the test environment (website www.drmax.ro, is it functional, online), prioritised the tests (based on business importance and risks)
-
 
 ## 1.6 Test Execution
 
@@ -88,7 +85,6 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 * If time allows, we will extend the tests to other browsers such as Tor, Opera, Brave;
 * Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Summary_test_case_Jira.png)
 * Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Bug_Jira.pdf)
-
 
 ## 1.7 Test Completion
 
