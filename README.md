@@ -90,7 +90,7 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
   ![Bug`s JIRA title](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/07c8bcbd-51bd-410c-b67e-3caafc751c42)
 * The test execution graph was generated in JIRA, the final report shows: [test completion report](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
   ![Test execution chart proiect TM-1](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/b74521d2-931e-4088-a729-6eb6ea04486a)
-
+  
 ## 1.7 Test Completion
 
 * Exit criteria was evaluated and passed
@@ -98,6 +98,8 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 * Test execution chart was generated: [test execution chart](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
 * The cases tested generally worked well, but there are a few issues that need to be adjusted to provide an optimal end-user experience.
 * Following the testing we have recommended fixing those found to ensure a loss-free user experience, financial loss or loss of potential customers.
-  [Conclusions](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conclusions_drmax.png) ![Conclusions_drmax](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/698423fc-104f-431d-852d-a8c1c74ac328)
+  [Conclusions](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conclusions_drmax.png)![Conclusions_drmax](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/c60900be-7c03-4880-b3d5-40dd1e2d8338)
+
+  
 
 
