@@ -8,7 +8,7 @@ Application under test: https://www.drmax.ro/
 
 API Documentation: *N/A*
 
-**The final project will be split into 2 sections: [**Testing section**](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section) and [*SQL section*](https://github.com/NCOor8/ProiectTestaremanuala/blob/main/README.md#2-sql-section) *N/A* **
+The final project will include: [**Testing section**](https://github.com/Buru-gl/Manual-testing-project-drmax#1-testing-section)
 
 Tools used: Jira [Atlassian](https://www.atlassian.com/software/jira), for Jira we use [Zephyr](https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud)
 
