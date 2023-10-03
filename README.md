@@ -97,7 +97,6 @@ The test cases with steps can be viewed here: [JIRA test case](https://github.co
 * The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Forward%20Traceability.png)
 * Test execution chart was generated: [test execution chart](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Chart_JIRA_raport.png)
 * The cases tested generally worked well, but there are a few issues that need to be adjusted to provide an optimal end-user experience.
-* Following the testing we have recommended fixing those found to ensure a loss-free user experience, financial loss or loss of potential customers.  [Conclusions](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conclusions_drmax.png)
-![Conclusions_drmax](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/698423fc-104f-431d-852d-a8c1c74ac328)
+* Following the testing we have recommended fixing those found to ensure a loss-free user experience, financial loss or loss of potential customers.  [Conclusions](https://github.com/Buru-gl/Manual-testing-project-drmax/blob/main/Conclusions_drmax.png) ![Conclusions_drmax](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/698423fc-104f-431d-852d-a8c1c74ac328)
 
 
