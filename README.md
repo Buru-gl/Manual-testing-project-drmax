@@ -59,6 +59,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ## 1.2 Test Monitoring and Control
 
 It will be done by generating periodic reports that reflect the current status of the test.
+Executions By Date
+![Test_metrix_by_date](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/0274c81c-fce4-4898-89cd-3f51530263a9)
 ![Test Executions By Test Cycle](https://github.com/Buru-gl/Manual-testing-project-drmax/assets/125501132/383580cc-58de-4862-9608-e0e05b035ad3)
 
 ## 1.3 Test Analysis
